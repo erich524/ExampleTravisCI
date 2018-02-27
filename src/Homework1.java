@@ -1,5 +1,5 @@
 
-public class homework01 {
+public class Homework1 {
 	public static void main(String[] args) {
 		int[] a = { 0, 1, 2, 3 };
 

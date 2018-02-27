@@ -1,13 +1,14 @@
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-class test {
+public class test {
+
 	int[] a = { 0, 1, 2, 3 };
 
 	@Test
 	void testFindLast() {
-		assertEquals(homework01.findLast(a, 3), 3);
+		assertEquals(Homework1.findLast(a, 3), 3);
 	}
 
 }
